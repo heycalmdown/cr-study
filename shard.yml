@@ -1,0 +1,13 @@
+name: cr-study
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  cr-study:
+    main: src/cr-study.cr
+
+crystal: 0.30.1
+
+license: MIT
